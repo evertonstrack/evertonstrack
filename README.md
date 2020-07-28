@@ -1,4 +1,4 @@
-### Hi, I'm Everton 👋
+# Hi, I'm Everton 👋
 
 <!--
 **evertonstrack/evertonstrack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,13 +29,13 @@ I am a technology enthusiast, I like to read between the lines of the technology
 
 ---
 
-### Em Português
+# Olá, eu sou o Everton 👋
 
 
 > **Escrevo código para pessoas**
 
 
-Eu sou um Front-end de(sign|velop)er brasileiro tentando mudar o mundo com design e código, as vezes com sucesso!
+Eu sou um Front-end de(**sign**|**velop**)er brasileiro tentando mudar o mundo com design e código, as vezes com sucesso!
 
 Sou entusiasta de tecnologia, gosto de ler entre as linhas da indústria de tecnologia e tentar entender as motivações por trás de decisões que podem parecer incríveis, irracionais ou puramente idiotas. Também gosto de beleza, café medíocre e dias chuvosos.
 
