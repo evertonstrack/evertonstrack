@@ -9,7 +9,7 @@ I am a technology enthusiast, I like to read between the lines of the technology
 
 
 ## 📫 Find me around the web
-- Writing about front-end on [evertonstrack.dev](https://evertonstrack.dev) (in Brazilian Portuguese)
+- Writing about software development, design, the life, the universe and everything, on [evertonstrack.dev](https://evertonstrack.dev) (in Brazilian Portuguese)
 
 ---
 
@@ -25,4 +25,4 @@ Sou entusiasta de tecnologia, gosto de ler entre as linhas da indústria de tecn
 
 
 ## 📫 Onde me encontrar pela web
-- Escrevendo sobre front-end em [evertonstrack.dev](https://evertonstrack.dev)
+- Escrevendo desenvolvimento de software, design, a vida, o universo e tudo mais, em [evertonstrack.dev](https://evertonstrack.dev)
